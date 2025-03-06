@@ -41,6 +41,10 @@ _Para facilitar, você pode utilizar o arquivo ZIP já preparado disponível nes
 
    - Certifique-se de que todas as dependências do projeto estão instaladas.
 
+   ```
+    pip install -r requirements.txt
+   ```
+
 2. **Execução do Script**:
 
    - Execute o seguinte comando para gerar as imagens:
