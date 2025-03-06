@@ -1,0 +1,12 @@
+http://localhost:8080/geoserver/pedro-gregorio/wms?
+service=WMS
+&version=1.1.0
+&request=GetMap
+&layers=pedro-gregorio%3APB_Municipios_2023
+&bbox=-36.01044%2C-6.93323%2C-35.75397%2C-7.06884
+&width=768
+&height=440
+&srs=EPSG%3A4674
+&styles=
+&format=image%2Fpng
+&CQL_FILTER=CD_MUN=2506004
