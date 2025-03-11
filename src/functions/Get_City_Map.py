@@ -11,7 +11,7 @@ def request_wms_city_image(workspace, layer, format, bbox, code):
         "request": "GetMap",
         "layers": f"{workspace}:{layer}",
         "styles": "",
-        "bbox": bbox,
+        "bbox": "-7.108623068630974,-36.02129230769231,-6.903376931369026,-35.73870769230769",
         "width": "820",
         "height": "600",
         "srs": "EPSG:4674",
